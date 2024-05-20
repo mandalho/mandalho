@@ -1,16 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 😍
 
-<!--
-**mandalho/mandalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nomer é Prof. Marcio Luciano Mandalho.
 
-Here are some ideas to get you started:
+- Estou utilizando a plataforma [Alura](https://cmspweb.ip.tv/)  nas aulas de robótica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou desenvolvendo alunos do ensino médio em JavaScript.
+
+- Utilizo esse espaço na organização e compartilhamento de projetos dos meus alunos.
+
+  ### Você pode entrar em contato comigo através do meu email 📫
+
+  mandalho@prof.educacao.sp.gov.br
+
+![image](https://github.com/mandalho/mandalho/assets/170373076/cc1b8812-bbf4-48b9-a97f-5e65ba8a9919)
+
+
+![image](https://github.com/mandalho/mandalho/assets/170373076/218845ad-5468-43f0-a51f-e364c163339c)
