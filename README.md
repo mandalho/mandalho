@@ -1,10 +1,10 @@
 ### Boas vindas ao meu perfil 😍
 
-Meu nomer é Prof. Marcio Luciano Mandalho.
+### Meu nomer é Prof. Marcio Luciano Mandalho
 
 - Estou utilizando a plataforma [Alura](https://cmspweb.ip.tv/)  nas aulas de robótica.
 
-- Estou desenvolvendo alunos do ensino médio em JavaScript.
+- Estou desenvolvendo alunos do ensino médio da PEI **Moraes Salles** em JavaScript.
 
 - Utilizo esse espaço na organização e compartilhamento de projetos dos meus alunos.
 
